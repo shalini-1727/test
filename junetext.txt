@@ -5,3 +5,5 @@ edited git file
 clone edited
 
 edited from develop branch
+
+merge develop
